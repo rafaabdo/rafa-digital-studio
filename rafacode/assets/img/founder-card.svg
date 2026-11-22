@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 860" role="img" aria-label="RAFA DIGITAL STUDIO founder card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#272A33"/>
+      <stop offset=".55" stop-color="#1B1D24"/>
+      <stop offset="1" stop-color="#2B2357"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".72" cy=".18" r=".8">
+      <stop offset="0" stop-color="#8B7DFF" stop-opacity=".55"/>
+      <stop offset=".55" stop-color="#6558E8" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#6558E8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B9B1FF"/>
+      <stop offset="1" stop-color="#6558E8"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#fff" fill-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="860" rx="36" fill="url(#bg)"/>
+  <rect width="720" height="860" rx="36" fill="url(#glow)"/>
+  <rect x="28" y="28" width="664" height="804" rx="24" fill="url(#dots)"/>
+  <circle cx="590" cy="170" r="190" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="1"/>
+  <circle cx="590" cy="170" r="130" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="1"/>
+  <path d="M-40 640C120 560 200 700 360 640s260-140 420-60" fill="none" stroke="url(#line)" stroke-opacity=".35" stroke-width="1.5"/>
+  <text x="72" y="762" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="2">RAFA</text>
+  <text x="75" y="798" fill="#B9B1FF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="7.5">DIGITAL STUDIO</text>
+  <text x="75" y="92" fill="#A7ABBA" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="4.5">FOUNDER &amp; CREATIVE DIRECTOR</text>
+  <g transform="translate(75 130)">
+    <path d="M0 250V8h96a67 67 0 0 1 0 134H0" fill="none" stroke="url(#line)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100 142 198 250" fill="none" stroke="url(#line)" stroke-width="28" stroke-linecap="round"/>
+    <circle cx="214" cy="12" r="18" fill="#DDE0FF"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="75" y="520" fill="#fff" font-size="34" font-weight="600">Rafa Alwasabi</text>
+    <text x="75" y="558" fill="#A7ABBA" font-size="18">رفا الوصابي</text>
+  </g>
+</svg>

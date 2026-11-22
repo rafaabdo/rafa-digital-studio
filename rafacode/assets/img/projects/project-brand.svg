@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Brand identity concept cover">
+  <defs>
+    <linearGradient id="b1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#242730"/><stop offset="1" stop-color="#14161C"/>
+    </linearGradient>
+    <radialGradient id="b2" cx=".5" cy=".4" r=".7">
+      <stop offset="0" stop-color="#7E70FF" stop-opacity=".35"/><stop offset="1" stop-color="#7E70FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="b3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D9D3FF"/><stop offset="1" stop-color="#8E82FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#b1)"/>
+  <rect width="800" height="600" fill="url(#b2)"/>
+  <g opacity=".1" stroke="#fff">
+    <path d="M0 150h800M0 300h800M0 450h800M200 0v600M400 0v600M600 0v600"/>
+  </g>
+  <g transform="translate(90 100)">
+    <rect width="300" height="300" rx="28" fill="#fff" fill-opacity=".04" stroke="#fff" stroke-opacity=".12"/>
+    <g transform="translate(78 66)">
+      <path d="M0 150V0h58a40 40 0 0 1 0 80H0" fill="none" stroke="url(#b3)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M62 86 120 150" fill="none" stroke="url(#b3)" stroke-width="18" stroke-linecap="round"/>
+      <circle cx="131" cy="8" r="11" fill="#DDE0FF"/>
+    </g>
+    <text x="150" y="252" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="6" fill="#fff" fill-opacity=".5">MONOGRAM</text>
+  </g>
+  <g transform="translate(430 100)">
+    <text x="0" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="5" fill="#A7ABBA">BRAND SYSTEM</text>
+    <text x="0" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#fff" letter-spacing="1">RAFA</text>
+    <text x="0" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="9" fill="#B9B1FF">DIGITAL STUDIO</text>
+    <rect x="0" y="160" width="270" height="1" fill="#fff" fill-opacity=".12"/>
+    <text x="0" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4" fill="#A7ABBA">PALETTE</text>
+    <rect x="0" y="216" width="58" height="58" rx="12" fill="#6558E8"/>
+    <rect x="72" y="216" width="58" height="58" rx="12" fill="#DDE0FF"/>
+    <rect x="144" y="216" width="58" height="58" rx="12" fill="#22252B" stroke="#fff" stroke-opacity=".15"/>
+    <rect x="216" y="216" width="58" height="58" rx="12" fill="#F4F5F7"/>
+    <text x="0" y="322" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4" fill="#A7ABBA">TYPOGRAPHY</text>
+    <text x="0" y="366" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="300" fill="#fff">Aa</text>
+    <text x="62" y="366" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#fff" fill-opacity=".55">Inter / Alexandria</text>
+  </g>
+  <g transform="translate(90 452)">
+    <rect width="620" height="74" rx="16" fill="#fff" fill-opacity=".04" stroke="#fff" stroke-opacity=".1"/>
+    <text x="26" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4" fill="#A7ABBA">VOICE</text>
+    <text x="26" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" fill-opacity=".7">Clear ideas. Quiet confidence. Lasting impressions.</text>
+  </g>
+</svg>
